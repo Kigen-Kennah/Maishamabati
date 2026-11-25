@@ -2,11 +2,11 @@
    MAISHA MABATI — GLOBAL CONFIG
    ========================================================= */
 const CONFIG = {
-  WHATSAPP_NUMBER: "254117651969",
+  WHATSAPP_NUMBER: "254135498873",
   BUSINESS_NAME: "Maisha Mabati",
   TAGLINE: "Sheltering You Today & Tomorrow",
-  PHONE: "+254 117 651 969",
-  PHONE_TEL: "+254117651969",
+  PHONE: "+254 135 498 873",
+  PHONE_TEL: "+254135498873",
   EMAIL: "info@maishamabati.co.ke",
   ADDRESS: "Ruiru, Kiambu County, Kenya",
   HOURS: "Mon–Fri: 9:00–20:00 | Sat: 11:00–15:00",
